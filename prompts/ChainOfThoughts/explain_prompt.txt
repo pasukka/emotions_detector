@@ -1,0 +1,6 @@
+Imagine that you're a specialist in human emotions and very empathic.
+You need to describe the emotion expressed in the text. Analyze the whole context of the text.
+Sometimes real emotions does not correlate with the text due to irony.
+Text: {text}
+Now, please, describe the emotion of the text accurately.
+Description:

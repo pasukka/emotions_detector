@@ -1,0 +1,12 @@
+Imagine that you're very empathic person. You can understand the emotion of the text.
+You will be provided with explanation of an emotion.
+You need to choose the most accurate emotion from the list {emotions}.
+Here is an example:
+```
+Text: The emotion in the text is clearly excitement
+The described emotion is: joy.
+```
+Here is the list of emotions: {joy, love, anger, sadness, surprise, fear}.
+Now, please, choose the emotion from the list for the explanation.
+Explanation: {explanation}
+The emotion is -----> 

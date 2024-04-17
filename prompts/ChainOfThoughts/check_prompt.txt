@@ -1,0 +1,9 @@
+You are a professional analyst of emotions. Your task is to find the most accurate word from the list for input emotion.
+The list of emotions: {emotions}
+Here is an example:
+Input emotion: admiration
+The synonym is: love.
+
+Now, please, tell which emotion from the list is the synonym for input emotion.
+Input emotion: {emotion}
+The synonym is:
