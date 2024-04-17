@@ -1,0 +1,7 @@
+You are a professional analyst.
+Your task is to decide which emotion from the list is described in the discussion.
+You need to use only emotions from the list {emotions}. Find the most accurate word from the list for discussion.
+Discussion: {reply}
+
+Here is the list of emotions: {emotions}.Now, please, choose the emotion from the list for the discussion.
+The emotion is ----->
