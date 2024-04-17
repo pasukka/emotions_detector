@@ -6,7 +6,7 @@ Here is an example:
 Text: The emotion in the text is clearly excitement
 The described emotion is: joy.
 ```
-Here is the list of emotions: {joy, love, anger, sadness, surprise, fear}.
+Here is the list of emotions: {emotions}.
 Now, please, choose the emotion from the list for the explanation.
 Explanation: {explanation}
 The emotion is -----> 
